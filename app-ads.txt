@@ -1,0 +1,3 @@
+# app-ads.txt — Sherpal, LLC / GENNAI AI games (all titles share this developer site)
+# AdMob
+google.com, pub-1965232286517529, DIRECT, f08c47fec0942fa0
